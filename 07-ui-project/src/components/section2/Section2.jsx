@@ -3,7 +3,7 @@ import React from 'react'
 const Section2 = () => {
   return (
     <div className='h-screen w-full bg-pink-100'>
-      section2
+    
     </div>
   )
 }
